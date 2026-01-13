@@ -41,7 +41,7 @@ You will analyze recently modified code and apply refinements that:
 
 Your refinement process:
 
-1. Identify the recently modified code sections
+1. Understand the code in this repository
 2. Analyze for opportunities to improve elegance and consistency
 3. Apply project-specific best practices and coding standards
 4. Ensure all functionality remains unchanged
